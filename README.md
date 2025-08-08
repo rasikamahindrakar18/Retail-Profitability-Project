@@ -12,6 +12,7 @@ To analyze sales performance, profit margins, product profitability, and regiona
 ## 🧰 Tools Used
 - Python (Pandas): Data cleaning & preprocessing
 - Power BI: Visualization and dashboard creation
+- Excel: For dataset preview and manual checks
 - Kaggle Superstore Dataset
 
 ## 📈 Dashboard Features
