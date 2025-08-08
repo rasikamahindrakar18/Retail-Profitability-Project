@@ -30,7 +30,7 @@ To analyze sales performance, profit margins, product profitability, and regiona
 - Corporate segment leads sales
 
 ## 📂 Deliverables
-- ✅ `Cleaned_Superstore.csv` – Cleaned dataset used in Power BI
+- ✅ `Cleaned_Superstore.xls` – Cleaned dataset used in Power BI
 - ✅ `Retail_Profitability_Dashboard.pbix` – Final Power BI dashboard file
 - ✅ `Project_Report.pdf` – 2-page summary report
 - ✅ `dashboard_screenshot.png` – Screenshot of final dashboard
