@@ -33,6 +33,7 @@ To analyze sales performance, profit margins, product profitability, and regiona
 - ✅ `Retail_Profitability_Dashboard.pbix` – Final Power BI dashboard file
 - ✅ `Project_Report.pdf` – 2-page summary report
 - ✅ `dashboard_screenshot.png` – Screenshot of final dashboard
+- ✅ `Data_Cleaning_Python.ipynb` – Jupyter Notebook (Pandas cleaning steps)
 - ✅ [Original Dataset on Kaggle](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
 
 ## 📌 Author
